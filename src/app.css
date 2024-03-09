@@ -1,0 +1,31 @@
+
+  .background-light {
+    background-color: #d6d6d6;
+    color:#000;
+  }
+.background-dark {
+    background-color: #000;
+    color: #d6d6d6;
+}
+body {
+    color: cadetblue;
+    font-family: "OpenDyslexicMono";
+   
+
+}
+section {
+    background-color: azure;
+}
+h1 {
+    color: navy;
+    font-size: larger;
+    font-weight: 700;
+}
+p {
+    color: cadetblue;
+    font-size: medium;
+}
+.open {
+    font-family: "OpenDyslexicMono";
+    font-size: 2rem;
+}
